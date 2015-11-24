@@ -43,7 +43,7 @@ releases, take a look at the
 [changelog](https://github.com/wine-compholio/wine-staging/blob/master/staging/changelog)
 for more details.*
 
-* Add IDragSourceHelper stub interface ([Wine Bug #24699](https://bugs.winehq.org/show_bug.cgi?id=24699))
+* [Add IDragSourceHelper stub interface](patches/Compiler_Warnings/) ([Wine Bug #24699](https://bugs.winehq.org/show_bug.cgi?id=24699))
 * Add IHTMLLocation::hash property's getter implementation ([Wine Bug #32967](https://bugs.winehq.org/show_bug.cgi?id=32967))
 * Add a ProfileList\<UserSID> registry subkey ([Wine Bug #15670](https://bugs.winehq.org/show_bug.cgi?id=15670))
 * Add a stub driver for tdi.sys ([Wine Bug #35693](https://bugs.winehq.org/show_bug.cgi?id=35693))
